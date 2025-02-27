@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70991720707",
+    "project_id": "tajweed-kz",
+    "storage_bucket": "tajweed-kz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70991720707:android:036c23bca0a6c8e8f7f936",
+        "android_client_info": {
+          "package_name": "com.example.tadzhuit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBS4xyl3NhJb3KxrchQbJvP7LVsNSwSKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
