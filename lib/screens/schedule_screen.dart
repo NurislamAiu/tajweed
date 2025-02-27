@@ -84,7 +84,7 @@ class _ScheduleScreenState extends State<ScheduleScreen> {
               end: Alignment.bottomRight,
             ),
           ),
-          child: Icon(Icons.add, color: Colors.red),
+          child: Icon(Icons.add, color: Colors.white), /// Main branch
         ),
       ),
   );
